@@ -1,4 +1,4 @@
-# ------------------- Cấu hình ban đầu -------------------
+
 # cd Downloads\Code
 # venv\Scripts\activate
 # pip install scikit-learn
